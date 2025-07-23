@@ -1,7 +1,7 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-const rootDomain = "ghostphantom.biz.id"; // Ganti dengan domain utama kalian
+const rootDomain = "dsdnjdsjd"; // Ganti dengan domain utama kalian
 const serviceName = "proxy"; // Ganti dengan nama workers kalian
 const apiKey = "dkdnj"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "snskn@gmail.com"; // Ganti dengan email cloudflare yang kalian gunakan 

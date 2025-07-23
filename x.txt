@@ -8,3 +8,4 @@
 8.39.125.205,443,US,Amazon Data Services NoVa
 46.254.93.120,8443,US,Amazon Data Services NoVa
 46.254.93.210,443,US,Amazon Data Services
+46.254.92.122,443,US,Amazon Data Services NoVa 

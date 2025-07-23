@@ -10,3 +10,4 @@
 46.254.93.210,443,US,Amazon Data Services
 46.254.92.122,443,US,Amazon Data Services NoVa 
 172.232.249.53,443,ID,Akamai Connected Cloud
+172.232.238.56,443,ID,Akamai Connected Cloud

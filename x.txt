@@ -5,3 +5,4 @@
 5.223.47.32,443,SG,Hetzner Online GmbH
 104.129.165.201,443,US,Amazon Data Services NoVa
 8.34.70.98,443,US,Amazon Data Services NoVa
+8.39.125.205,443,Amazon Data Teknologi

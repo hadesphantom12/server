@@ -3,3 +3,4 @@
 172.232.238.56,443,ID,Akamai Connected Cloud
 172.232.238.52,443,ID,Akamai Connected Cloud
 172.232.234.166,443,ID,Akamai Connected Cloud
+31.56.204.109,8443,FI,CGI GLOBAL LIMITED

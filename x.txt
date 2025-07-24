@@ -11,4 +11,4 @@
 45.89.107.118,443,MY,WorkTitans BV
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 43.218.77.16,443,ID,Amazoncom 
-149.129.250.8,443,ID,21F Ciputra World
+149.129.250.8,443,ID,Ciputra World

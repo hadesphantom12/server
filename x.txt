@@ -23,4 +23,5 @@
 185.114.78.230,443,US,Aryaka Network
 8.35.211.251,8443,US,Amazon Technologies Inc
 8.39.125.254,8443,US,Amazon Technologies Inc
+8.39.125.102,443,US,Amazon Technologies Inc
 222.114.159.171,12302,KR,Korea Telecom

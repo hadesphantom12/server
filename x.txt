@@ -21,7 +21,4 @@
 138.75.209.209,80,SG,M1 LIMITED
 175.156.84.31,8443,SG,M1 LIMITED
 185.114.78.230,443,US,Aryaka Network
-8.35.211.251,8443,US,Amazon Technologies Inc
-8.39.125.254,8443,US,Amazon Technologies Inc
-8.39.125.102,443,US,Amazon Technologies Inc
 222.114.159.171,12302,KR,Korea Telecom

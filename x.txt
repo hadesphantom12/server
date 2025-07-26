@@ -4,6 +4,7 @@
 203.194.112.119,2053,ID,CV. Rumahweb Indonesia
 149.129.250.8,443,ID,21/F, Ciputra World 1 (DBS Tower)
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
+36.95.152.58,12137,ID,PT Telekomunikasi
 172.232.249.53,443,ID,Linode
 172.232.248.227,587,ID,Linode
 172.104.161.205,443,SG,LINODE

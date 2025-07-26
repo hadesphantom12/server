@@ -36,3 +36,6 @@
 152.67.99.162,443,AU,Oracle Public Cloud
 139.99.236.163,443,AU,OVH Australia PTY LTD
 134.199.167.186,8888,AU,Digital Ocean
+170.64.227.71,443,AU,Digital Ocean
+170.64.187.193,443,AU,Digital Ocean
+170.64.210.188,4443,AU,Digital Ocean

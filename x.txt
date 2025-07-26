@@ -24,3 +24,5 @@
 222.114.159.171,12302,KR,Korea Telecom
 45.196.29.191,8443,ID,Amazon Technologies
 45.196.29.135,443,ID,Amazon Technologies
+46.254.93.165,443,US,Amazon Technologies
+46.254.93.162,443,ID,Amazon Technologies

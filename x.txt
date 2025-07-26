@@ -39,3 +39,4 @@
 170.64.227.71,443,AU,Digital Ocean
 170.64.187.193,443,AU,Digital Ocean
 170.64.210.188,4443,AU,Digital Ocean
+82.117.84.250,443,FI,Aeza International LTD

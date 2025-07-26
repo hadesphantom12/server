@@ -31,4 +31,4 @@
 207.211.153.234,443,AU,Oracle Corporation
 175.45.183.67,443,AU,Mammoth Media Pty Ltd
 206.201.196.122,443,AU,Aryaka Networks India Pvt. Ltd
-207.148.80.190,443,The Constant Company, LLC
+207.148.80.190,443,AU,The Constant Company, LLC

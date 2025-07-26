@@ -22,4 +22,5 @@
 175.156.84.31,8443,SG,M1 LIMITED
 185.114.78.230,443,US,Aryaka Network
 222.114.159.171,12302,KR,Korea Telecom
-45.196.29.191,8443,ID,Amazon 
+45.196.29.191,8443,ID,Amazon Technologies
+45.196.29.135,443,ID,Amazon Technologies

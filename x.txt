@@ -18,3 +18,5 @@
 185.114.78.230,443,US,Aryaka Network
 104.16.82.15,2053,US,Amazon Data Services NoVa
 222.114.159.171,12302,KR,Korea Telecom
+156.238.19.155,8443,Amazon Data Services NoVa
+156.238.18.85,443,Amazon Data Services NoVa

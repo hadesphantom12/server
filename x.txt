@@ -57,3 +57,4 @@
 176.124.198.14,443,NL,Aeza International LTD
 185.125.230.49,443,NL,Aeza International LTD
 147.45.68.31,443,GB,Aeza International LTD
+8.220.134.136,443,PH,Alibaba Cloud Singapore

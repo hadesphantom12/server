@@ -35,6 +35,7 @@
 89.169.52.150,443,DE,Aeza International LTD
 79.137.203.77,443,DE,Aeza International LTD
 222.114.159.171,12302,KR,Korea Telecom
+45.82.246.74,443,KR,WorkTitans B.V
 185.222.216.158,443,AU,xTom Pty Ltd
 152.67.125.161,443,AU,Oracle Public Cloud
 152.67.99.162,443,AU,Oracle Public Cloud

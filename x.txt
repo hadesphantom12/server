@@ -16,7 +16,6 @@
 46.3.96.64,443,SG,YXVM - SGP
 13.250.31.132,443,SG,Amazon Data Services Singapore
 18.136.213.164,443,SG,Amazon Data Services Singapore
-217.142.135.33,443,SG,Zenlayer Inc
 45.89.107.7,2053,MY,WorkTitans BV
 45.89.107.118,443,MY,WorkTitans BV
 202.184.63.50,443,MY,TT DOTCOM SDN BHD

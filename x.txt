@@ -88,6 +88,18 @@
 166.88.2.219,443,JP,Evoxt
 178.157.56.26,443,JP,Cluster Logic Inc
 47.91.2.84,443,JP,Alibaba Cloud (Singapore) Private Limited
+47.79.92.16,443,JP,Alibaba Cloud (Singapore) Private Limited
+47.79.42.197,443,JP,Alibaba Cloud (Singapore) Private Limited
+47.79.42.15,443,JP,Alibaba Cloud (Singapore) Private Limited
+47.79.41.201,443,JP,Alibaba Cloud (Singapore) Private Limited
+108.160.141.198,443,JP,Vultr Holdings, LLC
+45.32.55.253,443,JP,Vultr Holdings, LLC
+149.28.21.106,443,JP,Vultr Holdings, LLC
+45.76.111.190,443,JP,Vultr Holdings, LLC
+45.76.198.248,443,JP,Vultr Holdings, LLC
+149.28.21.222,443,JP,The Constant Company, LLC
+64.176.36.17,443,JP,The Constant Company, LLC
+47.79.43.222,443,JP,Alibaba Cloud LLC
 139.162.113.147,443,JP,Akamai Connected Cloud / Linode
 139.162.119.240,443,JP,Akamai Connected Cloud / Linode
 38.47.127.214,443,JP,VMISS Inc
@@ -100,3 +112,4 @@
 5.253.41.42,443,JP,WorkTitans B.V.
 217.142.226.168,443,JP,Oracle Svenska AB
 217.142.243.226,443,JP,Oracle Svenska AB
+217.142.226.116,443,JP,Oracle Svenska AB

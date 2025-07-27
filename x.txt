@@ -105,6 +105,8 @@
 139.162.119.240,443,JP,Akamai Connected Cloud / Linode
 38.47.127.214,443,JP,VMISS Inc
 38.47.126.88,443,JP,NPO G-net
+13.231.224.213,443,JP,Amazon Data Services Japan
+13.115.72.85,443,JP,Amazon Data Services Japan
 167.179.67.96,443,JP,Vultr Holdings
 147.79.20.47,443,JP,Brander Group Inc
 96.62.214.243,443,JP,Private Customer

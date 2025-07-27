@@ -26,6 +26,11 @@
 185.114.78.230,443,US,Aryaka Network
 138.124.60.170,443,US,Aeza International LTD
 138.124.123.149,443,US,Aeza International LTD
+138.124.123.164,443,US,Aeza International LTD
+138.124.60.31,443,US,Aeza International LTD
+138.124.60.11,443,US,Aeza International LTD
+138.124.123.145,443,US,Aeza International LTD
+95.181.173.70,443,US,Aeza International LTD
 109.172.94.45,443,DE,Aeza International LTD
 222.114.159.171,12302,KR,Korea Telecom
 185.222.216.158,443,AU,xTom Pty Ltd

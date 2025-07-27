@@ -87,3 +87,5 @@
 166.88.2.219,443,JP,Evoxt
 178.157.56.26,443,JP,Cluster Logic Inc
 47.91.2.84,443,JP,Alibaba Cloud (Singapore) Private Limited
+139.162.113.147,443,JP,Akamai Connected Cloud / Linode
+139.162.119.240,443,JP,Akamai Connected Cloud / Linode

@@ -1,4 +1,3 @@
-13.115.72.85,80,ID,PT Pusat Media Indonesia
 157.230.240.184,443,SG,DigitalOcean LLC
 43.218.77.16,1443,ID,Amazon.com, Inc.
 43.218.77.16,443,ID,Amazon.com, Inc.

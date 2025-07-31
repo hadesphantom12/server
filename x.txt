@@ -159,9 +159,3 @@
 194.135.46.130,443,NL,VPS1 in Netherlands
 165.140.242.108,443,US,AlphaVPS LLC
 204.152.218.112,443,US,80vps
-46.254.92.255,8443,US,Amazon Data Services NoVa
-46.254.93.163,8443,US,Amazon Data Services NoVa
-46.254.92.77,8443,US,Amazon Data Services NoVa
-46.254.93.3,443,US,Amazon Data Services NoVa
-46.254.93.152,8443,US,Amazon Data Services NoVa
-46.254.92.94,8443,US,Amazon Data Services NoVa

@@ -3,6 +3,8 @@
 103.197.189.133,443,ID,Ekadata
 103.146.63.149,443,ID,Semut Data
 157.230.240.184,443,SG,DigitalOcean LLC
+62.72.46.14,8443,SG,Contabo GmbH
+194.233.67.216,8443,SG,Contabo Asia Private Limited
 43.218.77.16,1443,ID,Amazon.com, Inc.
 43.218.77.16,443,ID,Amazon.com, Inc.
 149.129.250.8,443,ID,21/F, Ciputra World 1 (DBS Tower)

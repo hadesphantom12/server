@@ -5,6 +5,10 @@
 157.230.240.184,443,SG,DigitalOcean LLC
 62.72.46.14,8443,SG,Contabo GmbH
 194.233.67.216,8443,SG,Contabo Asia Private Limited
+66.42.51.60,8443,SG,SGP_VULTR_CUST
+139.180.154.158,443,SG,Vultr Holdings, LLC
+66.42.61.1,443,SG,SGP_VULTR_CUST
+45.76.157.34,443,SG,Vultr Holdings, LLC
 43.218.77.16,1443,ID,Amazon.com, Inc.
 43.218.77.16,443,ID,Amazon.com, Inc.
 149.129.250.8,443,ID,21/F, Ciputra World 1 (DBS Tower)

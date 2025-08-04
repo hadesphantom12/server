@@ -127,12 +127,8 @@
 109.123.231.212,443,JP,Contabo GmbH
 43.206.192.211,443,JP,Amazon.com
 38.180.29.115,443,JP,3NT SOLUTIONS LLP
-8.209.224.148,443,JP,Shiodome Sumitomo Blog 1-9-2 TOKYO
-8.209.224.148,443,JP,Shiodome Sumitomo Blog 1-9-2 TOKYO
-172.237.21.137,443,JP,Linode
 166.88.2.219,443,JP,Evoxt
 178.157.56.26,443,JP,Cluster Logic Inc
-47.91.2.84,443,JP,Alibaba Cloud (Singapore) Private Limited
 47.79.92.16,443,JP,Alibaba Cloud (Singapore) Private Limited
 47.79.42.197,443,JP,Alibaba Cloud (Singapore) Private Limited
 47.79.42.15,443,JP,Alibaba Cloud (Singapore) Private Limited
@@ -142,7 +138,6 @@
 149.28.21.106,443,JP,Vultr Holdings, LLC
 45.76.111.190,443,JP,Vultr Holdings, LLC
 45.76.198.248,443,JP,Vultr Holdings, LLC
-149.28.21.222,443,JP,The Constant Company, LLC
 64.176.36.17,443,JP,The Constant Company, LLC
 47.79.43.222,443,JP,Alibaba Cloud LLC
 139.162.113.147,443,JP,Akamai Connected Cloud / Linode

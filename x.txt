@@ -202,3 +202,6 @@
 13.127.255.237,443,IN,Amazon.com, Inc.
 103.111.114.147,8443,IN,Melbikomas UAB
 43.230.203.218,443,IN,Tier4Cloud
+65.20.67.41,443,IN,The Constant Company, LLC
+65.20.83.36,443,IN,Vultr Holdings LLC
+139.84.163.149,443,IN,Vultr Holdings, LLC

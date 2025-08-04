@@ -190,3 +190,15 @@
 109.248.24.161,443,PH,NetArt LIR, k.s.
 180.232.110.63,80,PH,Eastern Telecom's DSL-Client
 8.220.134.136,443,PH,Alibaba Cloud (Singapore) Private Limited
+65.20.67.41,443,IN,The Constant Company, LLC
+65.20.83.36,443,IN,Vultr Holdings LLC
+65.20.82.22,443,IN,Vultr Holdings LLC
+139.84.163.149,443,IN,Vultr Holdings, LLC
+128.199.22.103,8443,IN,DigitalOcean, LLC
+64.227.141.195,443,IN,DigitalOcean, LLC
+45.88.183.65,443,IN,WorkTitans B.V.
+45.88.183.11,443,IN,WorkTitans B.V.
+98.130.70.5,443,IN,Amazon.com, Inc.
+13.127.255.237,443,IN,Amazon.com, Inc.
+103.111.114.147,8443,IN,Melbikomas UAB
+43.230.203.218,443,IN,Tier4Cloud

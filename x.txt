@@ -91,7 +91,6 @@
 8.220.206.128,443,KR,Alibaba Cloud (Singapore) Private Limited
 217.142.141.52,443,KR,Oracle Corporation
 144.24.73.232,443,KR,Oracle Corp UK Ltd
-185.222.216.158,443,AU,xTom Pty Ltd
 152.67.125.161,443,AU,Oracle Public Cloud
 152.67.99.162,443,AU,Oracle Public Cloud
 207.211.153.234,443,AU,Oracle Corporation

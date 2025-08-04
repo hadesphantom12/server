@@ -177,7 +177,6 @@
 103.106.230.186,81,TW,Oneprovider.com - Taipei Infrastructure
 210.61.97.241,81,TW,Chunghwa Telecom Co.,Ltd.
 1.165.2.113,8443,TW,Chunghwa Telecom Co.,Ltd.
-111.241.82.199,443,TW,HiNet Taiwan
 122.117.174.80,443,TW,Chunghwa Telecom Co.,Ltd.
 34.81.177.170,443,TW,Google LLC
 34.81.185.105,443,TW,Google LLC

@@ -123,7 +123,6 @@
 109.248.24.161,443,PH,NetArt LIR
 103.125.216.22,443,JP,VPSServer.com /24 block for Tokyo location
 38.207.137.217,443,JP,Nearoute Limited
-20.243.22.94,443,JP,Microsoft Corporation
 160.251.181.170,443,JP,GMO Internet Group
 109.123.231.212,443,JP,Contabo GmbH
 43.206.192.211,443,JP,Amazon.com

@@ -172,3 +172,18 @@
 194.135.46.37,443,NL,VPS1 in Netherlands
 194.135.46.130,443,NL,VPS1 in Netherlands
 165.140.242.108,443,US,AlphaVPS LLC
+118.163.37.32,81,TW,Chunghwa Telecom Co.,Ltd.
+220.135.202.250,81,TW,Chunghwa Telecom Co.,Ltd.
+103.106.230.186,81,TW,Oneprovider.com - Taipei Infrastructure
+210.61.97.241,81,TW,Chunghwa Telecom Co.,Ltd.
+1.165.2.113,8443,TW,Chunghwa Telecom Co.,Ltd.
+111.241.82.199,443,TW,HiNet Taiwan
+122.117.174.80,443,TW,Chunghwa Telecom Co.,Ltd.
+34.81.177.170,443,TW,Google LLC
+34.81.185.105,443,TW,Google LLC
+35.206.233.5,443,TW,Google LLC
+45.207.158.29,4443,TW,Akile LTD
+45.207.158.29,8443,TW,Akile LTD
+210.79.155.242,8443,TW,JDA
+45.207.159.194,8080,TW,Akile LTD
+167.179.27.92,443,US,Aryaka Networks India Pvt. Ltd.

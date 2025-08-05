@@ -212,3 +212,42 @@
 35.206.233.5,443,TW,Google LLC
 34.10.117.17,8443,US,Google LLC
 35.212.188.55,8005,US,Google LLC
+23.226.8.80,443,HK,UDomain Web Hosting Company Limited
+218.253.30.63,8080,HK,Hong Kong Cable Television Limited
+202.8.106.135,443,HK,Alibaba Cloud LLC
+43.239.158.219,443,HK,IPTELECOM Hong Kong
+94.74.107.6,443,HK,Huawei Cloud HongKong Region
+159.138.138.87,443,HK,Huawei HongKong Clouds
+64.235.43.144,443,SG,Singapore SG Datacenter
+64.235.61.166,443,SG,Singapore SG Datacenter
+166.108.234.24,443,SG,Huawei-Cloud-SG
+172.83.156.148,443,US,Spartan Host Ltd
+45.142.157.216,8443,US,Spartan Host Ltd
+172.98.14.144,443,US,D-Digital LLC
+157.10.45.96,8000,VN,HAI NAM TECH JOINT STOCK COMPANY
+172.98.14.144,443,US,D-Digital LLC
+193.93.55.167,8000,US,Virtual Machine Solutions LLC
+104.234.36.246,443,US,Hurricane Electric LLC
+104.234.24.73,443,US,Virtual Machine Solutions LLC
+64.188.79.35,443,DE,1Cent Host
+64.188.79.4,443,DE,1Cent Host
+193.23.197.89,443,DE,Senko Digital Ltd
+193.23.211.155,443,DE,Senko Digital Ltd
+193.23.197.52,443,DE,Senko Digital Ltd
+193.23.197.210,443,DE,Senko Digital Ltd
+193.23.211.66,443,DE,Senko Digital Ltd
+108.165.164.145,443,DE,Ace Data Centers, Inc.
+193.23.210.225,8443,DE,Senko Digital Ltd
+193.23.197.41,443,DE,Senko Digital Ltd
+193.23.197.40,443,DE,Senko Digital Ltd
+193.23.211.120,443,DE,Senko Digital Ltd
+89.169.13.83,443,DE,SERV.HOST GROUP LTD
+64.188.78.98,443,FI,1Cent Host
+64.188.76.196,443,FI,1Cent Host
+168.93.214.224,443,JP,Evoxt
+23.27.28.35,443,MY,Evoxt.com
+64.188.77.99,443,NL,1Cent Host
+64.188.77.22,443,NL,1Cent Host
+194.61.120.228,443,NL,BlueVPS OU
+62.106.66.135,443,NL,BlueVPS OU
+45.143.167.213,443,NL,BlueVPS OU

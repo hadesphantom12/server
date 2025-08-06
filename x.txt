@@ -9,6 +9,7 @@
 47.254.235.252,443,MY,Alibaba Cloud - MY
 58.27.117.24,443,MY,TMNET
 60.52.2.32,443,MY,INTERNET SERVICE PROVIDER, MALAYSIA
+166.108.234.24,443,SG,Huawei-Cloud-SG
 20.17.104.31,443,MY,Microsoft Corporation
 20.17.107.137,443,MY,Microsoft Corporation
 43.218.77.16,443,ID,Amazon.com, Inc.
@@ -269,7 +270,6 @@
 194.233.67.216,8443,SG,Contabo Asia Private Limited
 139.180.154.158,443,SG,Vultr Holdings, LLC
 172.104.161.205,443,SG,Akamai Connected Cloud / Linode
-166.108.234.24,443,SG,Huawei-Cloud-SG
 103.214.23.121,443,SG,HostHatch Singapore
 160.22.79.155,443,SG,Onidel Pty Ltd
 160.22.79.179,443,SG,Onidel Pty Ltd

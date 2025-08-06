@@ -1,4 +1,4 @@
-43.218.77.16,443,,ID,Amazon.com, Inc.
+43.218.77.16,443,ID,Amazon.com, Inc.
 152.67.125.161,443,AU,Oracle Public Cloud
 152.67.99.162,443,AU,Oracle Public Cloud
 175.45.183.67,443,AU,Mammoth Media Pty Ltd

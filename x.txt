@@ -1,7 +1,4 @@
-172.66.144.39,443,US,Amazon Data Services NoVa
-104.20.46.147,443,US,Amazon Data Services NoVa
-172.66.144.39,8443,US,Amazon Data Services NoVa
-104.20.46.147,8443,US,Amazon Data Services NoVa
+34.128.126.45,8899,ID,gogle
 43.218.77.16,443,ID,Amazon.com, Inc.
 152.67.125.161,443,AU,Oracle Public Cloud
 152.67.99.162,443,AU,Oracle Public Cloud

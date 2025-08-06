@@ -1,6 +1,10 @@
 149.129.220.69,443,ID,21/F, Ciputra World 1 (DBS Tower), JalanProf. DR. Satrio Kav 3-5, Jakarta 12940, Indonesia
 172.232.231.191,444,ID,Linode
 23.27.53.140,443,MY,Evoxt.com
+58.27.117.24,443,MY,TMNET
+60.52.2.32,443,MY,INTERNET SERVICE PROVIDER, MALAYSIA
+20.17.104.31,443,MY,Microsoft Corporation
+20.17.107.137,443,MY,Microsoft Corporation
 43.218.77.16,443,ID,Amazon.com, Inc.
 152.67.125.161,443,AU,Oracle Public Cloud
 152.67.99.162,443,AU,Oracle Public Cloud

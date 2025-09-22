@@ -1,4 +1,3 @@
-INDONESIA
 149.129.220.69,443,ID,21/F, Ciputra World 1 (DBS Tower), JalanProf. DR. Satrio Kav 3-5, Jakarta 12940, Indonesia
 172.232.231.191,444,ID,Linode
 43.218.77.16,443,ID,Amazon.com, Inc.

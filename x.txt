@@ -5,10 +5,6 @@
 172.232.231.191,444,ID,Linode
 43.218.77.16,443,ID,Amazon.com, Inc.
 172.232.238.52,443,ID,Linode
-172.232.238.56,443,ID,Linode
-172.232.234.166,443,ID,Linode
-43.218.77.16,1443,ID,Amazon.com, Inc.
-43.218.77.16,443,ID,Amazon.com, Inc.
 149.129.250.8,443,ID,21/F, Ciputra World 1 (DBS Tower), JalanProf. DR. Satrio Kav 3-5, Jakarta 12940, Indonesia
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia

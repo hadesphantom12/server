@@ -1,3 +1,7 @@
+154.223.132.63,443,US,CDS Global Cloud Co Ltd
+154.223.132.138,443,US,CDS Global Cloud Co Ltd
+154.223.132.149,443,US,CDS Global Cloud Co Ltd
+154.223.132.246,443,US,CDS Global Cloud Co Ltd
 172.232.231.191,444,ID,Linode
 43.218.77.16,443,ID,Amazon.com, Inc.
 172.232.238.52,443,ID,Linode

@@ -3,29 +3,27 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = ".biz.id"; // Ganti dengan domain utama kalian
+const rootDomain = "ghostphantom.biz.id"; // Ganti dengan domain utama kalian
 const serviceName = "proxy"; // Ganti dengan nama workers kalian
 const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = ""; // Ganti dengan email yang kalian gunakan
 const accountID = ""; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = ""; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
-let proxyIP = "";
+let proxyIP = "https://raw.githubusercontent.com/hadesphantom12/server/main/x.txt";
 let cachedProxyList = [];
 
 // Constant
 const APP_DOMAIN = `${serviceName}.${rootDomain}`;
 const PORTS = [443, 80];
 const PROTOCOLS = [reverse("najort"), reverse("sselv"), reverse("ss")];
-const KV_PROXY_URL = "https://raw.githubusercontent.com/datayumiwandi/shiroko/refs/heads/main/Data/Alive.json";
-const PROXY_BANK_URL = "https://raw.githubusercontent.com/Mayumiwandi/Emilia/refs/heads/main/Data/alive.txt";
+const KV_PROXY_URL = "https://raw.githubusercontent.com/hadesphantom12/server/main/kvProxyList.json";
+const PROXY_BANK_URL = "https://raw.githubusercontent.com/hadesphantom12/server/main/x.txt";
 const DNS_SERVER_ADDRESS = "8.8.8.8";
 const DNS_SERVER_PORT = 53;
-const PROXY_HEALTH_CHECK_API = "https://yumiproxy.vercel.app/api/v1";
-const CONVERTER_URL ="";
+const PROXY_HEALTH_CHECK_API = "https://phantom-plum-six.vercel.app/api/v1";  // Punya saya https://cekip-arml.vercel.app/api/v1
+const CONVERTER_URL = "https://convert-zeta-jet.vercel.app";
 const DONATE_LINK = "";
-const BAD_WORDS_LIST =
-  "https://gist.githubusercontent.com/adierebel/a69396d79b787b84d89b45002cb37cd6/raw/6df5f8728b18699496ad588b3953931078ab9cf1/kata-kasar.txt";
 const PROXY_PER_PAGE = 20;
 const WS_READY_STATE_OPEN = 1;
 const WS_READY_STATE_CLOSING = 2;
@@ -118,7 +116,7 @@ function getAllConfig(request, hostName, proxyList, page = 0) {
 
     // Build HTML
     const document = new Document(request);
-    document.setTitle("Welcome to <span class='text-blue-500 font-semibold'>Yumi Proxy </span>");
+    document.setTitle("Welcome to <span class='text-blue-500 font-semibold'>Phantom Server List</span>");
     document.addInfo(`Total: ${proxyList.length}`);
     document.addInfo(`Page: ${page}/${Math.floor(proxyList.length / PROXY_PER_PAGE)}`);
 
@@ -1008,6 +1006,7 @@ class CloudflareApi {
     };
   }
 
+  
   async getDomainList() {
     const url = `https://api.cloudflare.com/client/v4/accounts/${this.accountID}/workers/domains`;
     const res = await fetch(url, {
@@ -1069,6 +1068,7 @@ class CloudflareApi {
   }
 }
 
+
 // HTML page base
 /**
  * Cloudflare worker gak support DOM API, tetapi mereka menggunakan HTML Rewriter.
@@ -1080,9 +1080,7 @@ let baseHTML = `
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Yumi - Proxy List</title>
-    <link rel="icon" type="image/x-icon"
-			href="https://github.com/user-attachments/assets/b5feabb7-3f20-4028-9436-e3f3307dd2ae">
+    <title>Phantom - Proxy List</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
       /* For Webkit-based browsers (Chrome, Safari and Opera) */
@@ -1561,6 +1559,9 @@ let baseHTML = `
           paginationContainer.classList.add("-translate-y-6");
         }
       };
+      addEventListener('fetch', event => {
+        event.respondWith(handleRequest(event.request))
+      })
     </script>
     </body>
 
@@ -1677,4 +1678,5 @@ class Document {
 
     return this.html.replaceAll(/PLACEHOLDER_\w+/gim, "");
   }
-              }
+}
+
